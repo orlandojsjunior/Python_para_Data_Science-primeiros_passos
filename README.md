@@ -1,4 +1,4 @@
-# Python Data Science
+# Python para Data Science
 
 A formação de Python para Data Science da Alura é um guia de estudos com o passo a passo necessário para quem deseja aprender sobre uma das áreas com mais demanda de profissionais nos últimos anos. Cada etapa desse processo foi cuidadosamente pensada por nossa equipe, fazendo com que você, ao final da formação, tenha desenvolvido habilidades para enfrentar diversos desafios na área de Ciência de Dados.
 

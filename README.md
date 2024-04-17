@@ -10,7 +10,8 @@ Na Formação Python para Data Science da Alura, você conhecerá Python, a ling
 
 Se você quer trabalhar com Data Science, esta formação vai te preparar para entrar no mercado e dar seus primeiros passos na profissão.
 
-* Faça esse curso de Data Science e:
+Faça esse curso de Data Science e:
+
 * Entenda comandos básicos da linguagem Python
 * Diferencie os tipos de variáveis
 * Manipule tipos básicos de dados em Python

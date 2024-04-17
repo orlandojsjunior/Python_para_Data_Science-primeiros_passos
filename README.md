@@ -9,3 +9,12 @@ O QUE APRENDEREMOS?
 Na Formação Python para Data Science da Alura, você conhecerá Python, a linguagem mais popular em Data Science, explorando as bibliotecas mais utilizadas em Ciência de Dados, como Pandas e Numpy. Você aprenderá sobre a coleta, preparação e exploração dos dados com o Pandas em projetos dos mais diversos assuntos.
 
 Se você quer trabalhar com Data Science, esta formação vai te preparar para entrar no mercado e dar seus primeiros passos na profissão.
+
+* Faça esse curso de Data Science e:
+* Entenda comandos básicos da linguagem Python
+* Diferencie os tipos de variáveis
+* Manipule tipos básicos de dados em Python
+* Distingua estruturas condicionais
+* Construa diferentes estruturas de repetição
+* Trabalhe com estruturas de dados
+* Relacione as estruturas da linguagem de programação à construção de projetos

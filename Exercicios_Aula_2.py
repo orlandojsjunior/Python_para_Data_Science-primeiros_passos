@@ -254,7 +254,7 @@ Crie um código que solicite uma frase à pessoa usuária e imprima a mesma fras
 
 frase = input("Digite uma frase que contenha a vogal “a”: ")
 
-print(frase.replace('a', '@'))
+print(frase.lower().replace('a',chr(64)))
 
 
 '''
@@ -265,4 +265,4 @@ Crie um código que solicite uma frase à pessoa usuária e imprima a mesma fras
 
 frase = input("Digite uma frase que contenha a consoante “s”: ")
 
-print(frase.replace('s', '$'))
+print(frase.lower().replace('s',chr(36)))

@@ -1,4 +1,5 @@
-# Curso de Python para Data Science: primeiros passos
+# Curso de Python para Data Science
+## Primeiros passos
 
 **Esse curso faz parte da Formação Python para Data Science** - https://cursos.alura.com.br/formacao-data-science-python
 

@@ -1,9 +1,8 @@
-# Curso de Python para Data Science
-## Primeiros passos
+# [Formação Python para Data Science](https://cursos.alura.com.br/formacao-data-science-python)
 
-**Esse curso faz parte da Formação Python para Data Science** - https://cursos.alura.com.br/formacao-data-science-python
+## [Primeiros passos](https://cursos.alura.com.br/course/python-data-science-primeiros-passos)
 
-**Principais tópicos do curso:**
+### Principais tópicos do curso:
 
 * Entendendo comandos básicos da linguagem Python
 * Diferenciando os tipos de variáveis

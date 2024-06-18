@@ -1,4 +1,5 @@
 # [Formação Python para Data Science](https://cursos.alura.com.br/formacao-data-science-python)
+Aprenda Python com foco em Data Science!
 
 ## [Python para Data Science: primeiros passos](https://cursos.alura.com.br/course/python-data-science-primeiros-passos)
 
